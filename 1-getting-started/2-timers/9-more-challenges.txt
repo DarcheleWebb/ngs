@@ -10,7 +10,7 @@ Challenge 1:
   Hello World. 2
   Hello World. 3
   ...
-
+  
   Constraints: You can only use const (no let or var)
 
 Challenge 2:
